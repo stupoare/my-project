@@ -23,7 +23,7 @@ Put __another text__ here
 Ut in sem auctor, congue est eget, tempor lorem. Cras ut ipsum ut urna tincidunt semper. Fusce vitae risus at ex ultrices ultricies.
 Cras dictum pellentesque ex. Ut risus ante, condimentum luctus augue sit amet, euismod consectetur urna. Fusce ac justo dolor.
 
->Nulla facilisis purus et elit laoreet, eu eleifend mi convallis. Curabitur eget bibendum eros. Sed ac consectetur mauris.
+> ~~Nulla~~ Facilisis purus et elit laoreet, eu eleifend mi convallis. Curabitur eget bibendum eros. Sed ac consectetur mauris.
 
 ---
 
@@ -54,7 +54,7 @@ body {
 ```
 
 ```sh
-$ cd poco/
+$ cd poco
 ```
 
 ## Links
